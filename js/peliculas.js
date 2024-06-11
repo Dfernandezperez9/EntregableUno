@@ -1,4 +1,7 @@
 const peliculas = [
+
+
+
   {
       "adult": false,
       "backdrop_path": "/eSsMzJpzAwCa69tm6Wco2il44aJ.jpg",
@@ -20,6 +23,10 @@ const peliculas = [
       "vote_average": 6.3,
       "vote_count": 87
   },
+
+
+
+
   {
       "adult": false,
       "backdrop_path": "/iiXliCeykkzmJ0Eg9RYJ7F2CWSz.jpg",
@@ -40,6 +47,9 @@ const peliculas = [
       "vote_average": 7,
       "vote_count": 589
   },
+
+
+
   {
       "adult": false,
       "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
@@ -60,6 +70,9 @@ const peliculas = [
       "vote_average": 7.2,
       "vote_count": 4153
   },
+
+
+
   {
       "adult": false,
       "backdrop_path": "/tC78Pck2YCsUAtEdZwuHYUFYtOj.jpg",
@@ -80,6 +93,9 @@ const peliculas = [
       "vote_average": 7.4,
       "vote_count": 1436
   },
+
+
+
   {
       "adult": false,
       "backdrop_path": "/r7DuyYJ0N3cD8bRKsR5Ygq2P7oa.jpg",
@@ -100,6 +116,9 @@ const peliculas = [
       "vote_average": 8,
       "vote_count": 1332
   },
+
+
+
   {
       "adult": false,
       "backdrop_path": "/rMvPXy8PUjj1o8o1pzgQbdNCsvj.jpg",
@@ -120,6 +139,9 @@ const peliculas = [
       "vote_average": 6.5,
       "vote_count": 600
   },
+
+
+
   {
       "adult": false,
       "backdrop_path": "/h56edmERPTkey89SqyKu4hINVNy.jpg",
@@ -139,6 +161,9 @@ const peliculas = [
       "vote_average": 7.7,
       "vote_count": 2079
   },
+
+
+
   {
       "adult": false,
       "backdrop_path": "/pA3vdhadJPxF5GA1uo8OPTiNQDT.jpg",
@@ -158,6 +183,9 @@ const peliculas = [
       "vote_average": 8.2,
       "vote_count": 1200
   },
+
+
+
   {
       "adult": false,
       "backdrop_path": "/5mzr6JZbrqnqD8rCEvPhuCE5Fw2.jpg",
@@ -178,6 +206,9 @@ const peliculas = [
       "vote_average": 6.8,
       "vote_count": 2453
   },
+
+
+  
   {
       "adult": false,
       "backdrop_path": "/h7BoGo4NhckWRiMUCi3Qr8GwBDA.jpg",
